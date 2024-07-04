@@ -1,0 +1,12 @@
+.MainBanner{
+    width: 500px;
+    margin: auto;
+}
+
+.MainBanner img{
+    display: none;
+}
+
+.MainBanner img:nth-child(1){
+    display: block;
+}
